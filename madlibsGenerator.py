@@ -1,6 +1,6 @@
 # no logic for dis
 
-with open("story.txt", "r") as f:
+with open("madlibsGenerator.txt", "r") as f:
     story = f.read()
 
 words = set()
