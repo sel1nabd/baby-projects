@@ -1,3 +1,5 @@
+# QR code random libraries lol
+
 import qrcode.constants
 
 QR = qrcode.QRCode(
